@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ricardo%20Akira%20Harada&fontSize=45&fontColor=ffffff"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ricardo%20Akira%20Harada&fontSize=45&fontColor=ffffff](https://tse4.mm.bing.net/th/id/OIP.Hrjn4dofLetL4z8OaIeCGgAAAA?pid=Api&P=0&h=180)"/>
 
 <p align="center">
 <img src="https://media.licdn.com/dms/image/C5603AQEajpg8zwFchw/profile-displayphoto-shrink_200_200/0/1517372241951?e=2147483647&v=beta&t=9miBAgeAIW91in6WGj0F74wf31vl23s3h9L17K6mYbY" width="160"/>
