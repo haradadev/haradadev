@@ -1,7 +1,6 @@
-<img width="100%" src="https://media.licdn.com/dms/image/v2/C5603AQEajpg8zwFchw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517372241951?e=2147483647&v=beta&t=URlWlXgBO9q8jhWzhcYtCTAvE5wpBx--ytAT-C0qNGA"/>
 
 <p align="center">
-<img src="https://media.licdn.com/dms/image/C5603AQEajpg8zwFchw/profile-displayphoto-shrink_200_200/0/1517372241951?e=2147483647&v=beta&t=9miBAgeAIW91in6WGj0F74wf31vl23s3h9L17K6mYbY" width="160"/>
+<img src="https://media.licdn.com/dms/image/v2/C5603AQEajpg8zwFchw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517372241951?e=2147483647&v=beta&t=URlWlXgBO9q8jhWzhcYtCTAvE5wpBx--ytAT-C0qNGA" width="160"/>
 </p>
 
 <h1 align="center">Ricardo Akira Harada</h1>
